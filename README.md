@@ -1,4 +1,4 @@
-### OLA!! Sou o Samuel Gomes 👋
+### OLA!! Sou o Samuel Gomes 👋 
 
 - 📚 Estou Estudando Desenvolvimento Mobile
 - 💡 Linguagens: TypeScript, Kotlin Java
