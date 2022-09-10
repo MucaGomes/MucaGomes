@@ -1,6 +1,6 @@
 ### OLA!! Sou o Samuel Gomes 👋 
 
-- 📚 Sou um Desenvolvedor Mobile Jr.
+- 🌠 Sou um Desenvolvedor Mobile Jr.
 - 💡 Linguagens: Kotlin, JavaScript, SQL, TypeScript 
 
 <div align="center">
