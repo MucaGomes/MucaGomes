@@ -1,7 +1,7 @@
 ### OLA!! Sou o Samuel Gomes 👋 
 
-- 📚 Estou Estudando Desenvolvimento Mobile
-- 💡 Linguagens: TypeScript, Kotlin Java
+- 📚 Sou um Desenvolvedor Mobile Jr.
+- 💡 Linguagens: Kotlin, JavaScript, SQL, TypeScript 
 
 <div align="center">
   <a href="https://github.com/MucaGomes">
