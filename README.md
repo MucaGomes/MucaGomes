@@ -1,13 +1,8 @@
 ### OLA!! Sou o Samuel Gomes 👋 
 
 - 🌠 Sou um Desenvolvedor Mobile Jr.
-- 💡 Linguagens: Kotlin, JavaScript, SQL, TypeScript 
+- 💡 Linguagens : Kotlin | API Rest & RestFull | MVVM | Android | SQL & SQLite | TypeScript | NestJS
 
-<div align="center">
-  <a href="https://github.com/MucaGomes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MucaGomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MucaGomes&layout=compact&langs_count=7&theme=dark"/>
-</div>
 
 <div>
 <img align="right" alt="Muca-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/993651741293805629/1002710142418178129/imagem_2022-07-29_195219093.png">
