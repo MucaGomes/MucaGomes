@@ -1,7 +1,7 @@
 ### OLA!! Sou o Samuel Gomes 👋 
 
 - 🌠 Sou um Desenvolvedor Mobile Jr.
-- 💡 Linguagens : Kotlin | API Rest & RestFull | MVVM | Android | SQL & SQLite | TypeScript | NestJS
+- 💡 Skills : Kotlin | API Rest & RestFull | MVVM | Android | SQL & SQLite | TypeScript | NestJS
 
 
 <div>
