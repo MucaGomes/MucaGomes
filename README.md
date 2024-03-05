@@ -4,10 +4,6 @@
 - 💡 Skills : Kotlin | API Rest & RestFull | MVVM | Android | SQL & SQLite | TypeScript | NestJS
 
 
-<div>
-<img align="right" alt="Muca-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/993651741293805629/1002710142418178129/imagem_2022-07-29_195219093.png">
-</div>
-
 ##
   
 <div style="display: inline_block" >
